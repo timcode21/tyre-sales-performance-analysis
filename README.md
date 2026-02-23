@@ -58,7 +58,7 @@ Inventory strategy and product focus should reflect this pattern.
 
 ## DASHBOARD PREVIEW
 <p align="center">
-  <img src="images/Dashboard_image.png" width="800">
+  <img src="images/dashboard_overview.png" width="800">
 </p>
 
 ---
