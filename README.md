@@ -56,6 +56,13 @@ Inventory strategy and product focus should reflect this pattern.
 
 ---
 
+## DASHBOARD PREVIEW
+<p align="center">
+  <img src="images/Dashboard_image.png" width="800">
+</p>
+
+---
+
 ## 4. Insights Deep Dive
 
 ### Insight 1: Sales Surge in Q2
@@ -161,7 +168,3 @@ Reduce dependency risk by gradually promoting mid-tier products.
 - Revenue consistency verified (Units Price × Unit Sold).  
 - Measures created using DAX in Power BI.  
 - Dashboard designed to prioritize decision-making KPIs over decorative visuals.  
-
----
-
-## DASHBOARD PREVIEW
